@@ -8,6 +8,7 @@ function App() {
       <div>
         Subham Surmara first commit
         Adding Pavan first commit
+        Adding Manish first commit
       </div>
     </>
   );
