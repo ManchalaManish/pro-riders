@@ -7,6 +7,7 @@ function App() {
       <h1>This is our pro-rider application</h1>
       <div>
         Subham Surmara first commit
+        Adding Pavan first commit
       </div>
     </>
   );
