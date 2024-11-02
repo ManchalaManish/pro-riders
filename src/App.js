@@ -6,6 +6,7 @@ function App() {
     <>
       <h1>This is our pro-rider application</h1>
       <div>
+        Aditya first commit
         Subham Surmara first commit
         Adding Pavan first commit
         Adding Manish first commit
